@@ -2,14 +2,14 @@
     "Host": "irc.chat.twitch.tv",
     "Port": 6667,
     "Channel": "#feralharupi",
-    "Nickname": "skybrainssizzlers",
-    "Authentication": "oauth:kahcqfpxuvhheey9ubh5k70irzv85m",
+    "Nickname": "squirbelmusings",
+    "Authentication": "oauth:c4y91ubif7hxws910seaufbxn63pcb",
     "DeniedUsers": [
         "StreamElements",
         "Moobot",
         "Marbiebot"
     ],
-    "AllowedUsers": ["turtleturtletm", "SnufkinMae", "feralharupi", "amachisky", "unemployedkun"],
+    "AllowedUsers": ["turtleturtletm", "SnufkinMae", "feralharupi", "amachisky", "copdisbong"],
     "Cooldown": 20,
     "KeyLength": 2,
     "MaxSentenceWordAmount": 50,
@@ -21,7 +21,7 @@
     "SentenceSeparator": " - ",
     "AllowGenerateParams": true,
     "GenerateCommands": [
-        "!rizz",
-        "!r"
+        "!squib",
+        "!s"
     ]
 }
